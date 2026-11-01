@@ -1,0 +1,13 @@
+# Core numerical and data stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Cheminformatics and Excel input
+rdkit
+openpyxl
+
+# Notebook environment
+jupyter
+ipykernel
